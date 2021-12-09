@@ -50,7 +50,7 @@ h2 {
 
 textarea,
 #output {
-  height: 20vh;
+  min-height: 20vh;
   width: 25vw;
   border: 2px solid;
   margin: 2rem;
